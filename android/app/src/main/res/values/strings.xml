@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">youtube_clone</string>
+    <string name="title_activity_main">youtube_clone</string>
+    <string name="package_name">com.youtube_clone</string>
+    <string name="custom_url_scheme">com.youtube_clone</string>
+</resources>
